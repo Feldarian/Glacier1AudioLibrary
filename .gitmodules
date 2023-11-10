@@ -1,0 +1,4 @@
+[submodule "vendor/BaseLibrary"]
+	path = vendor/BaseLibrary
+	url = git@github.com:Feldarian/BaseLibrary.git
+	branch = main
